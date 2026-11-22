@@ -1,3 +1,2 @@
 test:
-    @echo "Implement your project tests and update this recipe."
-    @exit 1
+    python3 -B -m unittest discover
